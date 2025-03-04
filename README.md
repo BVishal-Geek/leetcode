@@ -23,4 +23,8 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/BVishal-Geek/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
