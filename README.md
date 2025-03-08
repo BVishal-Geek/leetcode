@@ -40,4 +40,12 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/BVishal-Geek/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## String
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BVishal-Geek/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BVishal-Geek/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
