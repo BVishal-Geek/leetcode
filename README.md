@@ -7,6 +7,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0001-two-sum) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BVishal-Geek/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -61,6 +62,7 @@ This repository contains my every day leet code submission.
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
