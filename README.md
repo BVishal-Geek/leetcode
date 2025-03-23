@@ -123,4 +123,8 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/BVishal-Geek/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/BVishal-Geek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
