@@ -126,5 +126,6 @@ This repository contains my every day leet code submission.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/BVishal-Geek/Leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/BVishal-Geek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
