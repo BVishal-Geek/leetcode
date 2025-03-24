@@ -108,12 +108,14 @@ This repository contains my every day leet code submission.
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/BVishal-Geek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/BVishal-Geek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/BVishal-Geek/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/BVishal-Geek/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/BVishal-Geek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/BVishal-Geek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
@@ -130,4 +132,12 @@ This repository contains my every day leet code submission.
 | [0595-big-countries](https://github.com/BVishal-Geek/Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/BVishal-Geek/Leetcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/BVishal-Geek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/BVishal-Geek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/BVishal-Geek/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
