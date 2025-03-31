@@ -15,6 +15,7 @@ This repository contains my every day leet code submission.
 | [2478-longest-nice-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/BVishal-Geek/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/BVishal-Geek/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BVishal-Geek/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/BVishal-Geek/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -162,6 +163,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/BVishal-Geek/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/BVishal-Geek/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -174,9 +176,14 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
