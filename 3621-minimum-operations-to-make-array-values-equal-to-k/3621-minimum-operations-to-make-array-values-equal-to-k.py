@@ -1,5 +1,5 @@
 class Solution(object):
-    def minOperations(self, nums, k):
+    def minOperations(self, nums: List[int], k: int):
         mpp = {}
         for i in nums:
             if i < k:
@@ -7,3 +7,4 @@ class Solution(object):
             elif i > k:
                 mpp[i] = mpp.get(i, 0) + 1
         return len(mpp)
+        
