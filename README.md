@@ -73,6 +73,7 @@ This repository contains my every day leet code submission.
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/BVishal-Geek/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -113,6 +114,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/BVishal-Geek/Leetcode/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/BVishal-Geek/Leetcode/tree/master/1894-merge-strings-alternately) |
