@@ -13,6 +13,7 @@ This repository contains my every day leet code submission.
 | [0416-partition-equal-subset-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/BVishal-Geek/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/BVishal-Geek/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BVishal-Geek/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
