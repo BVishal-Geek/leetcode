@@ -26,11 +26,3 @@ class Solution:
             chars[i] = compressedList[i]
 
         return len(compressedList)
-        # i = 0
-        # while i < len(chars)-1:
-        #     if i < len(compressedList): 
-        #         chars[i] = compressedList[i]
-        #         i += 1
-        # chars = chars[:i]
-            
-        # return len(chars)
