@@ -81,6 +81,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0011-container-with-most-water](https://github.com/BVishal-Geek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/BVishal-Geek/Leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/BVishal-Geek/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -125,6 +126,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0038-count-and-say](https://github.com/BVishal-Geek/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/BVishal-Geek/Leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
