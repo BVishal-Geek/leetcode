@@ -14,6 +14,7 @@ This repository contains my every day leet code submission.
 | [0334-increasing-triplet-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0605-can-place-flowers](https://github.com/BVishal-Geek/Leetcode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/BVishal-Geek/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -250,6 +251,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/BVishal-Geek/Leetcode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
