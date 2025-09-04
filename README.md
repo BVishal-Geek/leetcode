@@ -21,6 +21,7 @@ This repository contains my every day leet code submission.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/BVishal-Geek/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/BVishal-Geek/Leetcode/tree/master/1656-count-good-triplets) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BVishal-Geek/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/BVishal-Geek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -65,6 +66,7 @@ This repository contains my every day leet code submission.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BVishal-Geek/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/BVishal-Geek/Leetcode/tree/master/1500-count-largest-group) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/BVishal-Geek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BVishal-Geek/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -87,6 +89,7 @@ This repository contains my every day leet code submission.
 | [0392-is-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/BVishal-Geek/Leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/BVishal-Geek/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -245,6 +248,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
