@@ -159,6 +159,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BVishal-Geek/Leetcode/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/BVishal-Geek/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -330,4 +331,8 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/BVishal-Geek/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/BVishal-Geek/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
