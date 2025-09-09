@@ -11,6 +11,7 @@ This repository contains my every day leet code submission.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BVishal-Geek/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
+| [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/BVishal-Geek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BVishal-Geek/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -159,6 +160,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BVishal-Geek/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/BVishal-Geek/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
