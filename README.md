@@ -33,6 +33,7 @@ This repository contains my every day leet code submission.
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/BVishal-Geek/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2478-longest-nice-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/BVishal-Geek/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -94,6 +95,7 @@ This repository contains my every day leet code submission.
 | [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/BVishal-Geek/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/BVishal-Geek/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BVishal-Geek/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -166,6 +168,7 @@ This repository contains my every day leet code submission.
 | [0907-koko-eating-bananas](https://github.com/BVishal-Geek/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/BVishal-Geek/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/BVishal-Geek/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/BVishal-Geek/Leetcode/tree/master/2690-house-robber-iv) |
@@ -255,6 +258,7 @@ This repository contains my every day leet code submission.
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/BVishal-Geek/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/BVishal-Geek/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
