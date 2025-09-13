@@ -7,12 +7,13 @@ class Solution:
         right = 0
 
         while right<len(nums): 
-            if nums[left] == nums[right] == 0:
-                right += 1 
-            elif nums[right] != 0: 
+            if nums[left] == 0 and nums[right] == 0:
+                right += 1
+            elif nums[right] != 0:
                 nums[left], nums[right] = nums[right], nums[left]
                 left += 1 
                 right += 1 
+            
 
 
         
