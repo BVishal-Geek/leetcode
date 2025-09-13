@@ -11,6 +11,7 @@ This repository contains my every day leet code submission.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/BVishal-Geek/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/BVishal-Geek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BVishal-Geek/Leetcode/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0001-two-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BVishal-Geek/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
