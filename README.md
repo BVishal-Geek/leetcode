@@ -38,6 +38,7 @@ This repository contains my every day leet code submission.
 | [2280-count-good-triplets-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/BVishal-Geek/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-equal-row-and-column-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/BVishal-Geek/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -80,6 +81,7 @@ This repository contains my every day leet code submission.
 | [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/BVishal-Geek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BVishal-Geek/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/BVishal-Geek/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -110,6 +112,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2428-equal-row-and-column-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +136,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/BVishal-Geek/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
