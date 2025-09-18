@@ -20,6 +20,7 @@ This repository contains my every day leet code submission.
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/BVishal-Geek/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/BVishal-Geek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/BVishal-Geek/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/BVishal-Geek/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -162,6 +163,7 @@ This repository contains my every day leet code submission.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/BVishal-Geek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BVishal-Geek/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/2478-longest-nice-subarray) |
