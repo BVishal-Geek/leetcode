@@ -148,6 +148,7 @@ This repository contains my every day leet code submission.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/BVishal-Geek/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/BVishal-Geek/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
