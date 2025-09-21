@@ -13,6 +13,7 @@ This repository contains my every day leet code submission.
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/BVishal-Geek/Leetcode/tree/master/0056-merge-intervals) |
+| [0136-single-number](https://github.com/BVishal-Geek/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/BVishal-Geek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BVishal-Geek/Leetcode/tree/master/0283-move-zeroes) |
@@ -206,6 +207,7 @@ This repository contains my every day leet code submission.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/BVishal-Geek/Leetcode/tree/master/0136-single-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/BVishal-Geek/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/2478-longest-nice-subarray) |
