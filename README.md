@@ -22,6 +22,7 @@ This repository contains my every day leet code submission.
 | [0416-partition-equal-subset-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/BVishal-Geek/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/BVishal-Geek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/BVishal-Geek/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/BVishal-Geek/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -113,6 +114,7 @@ This repository contains my every day leet code submission.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -294,6 +296,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BVishal-Geek/Leetcode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
