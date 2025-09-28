@@ -115,6 +115,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/BVishal-Geek/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +162,7 @@ This repository contains my every day leet code submission.
 | [1894-merge-strings-alternately](https://github.com/BVishal-Geek/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/BVishal-Geek/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BVishal-Geek/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/BVishal-Geek/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -292,6 +294,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BVishal-Geek/Leetcode/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
