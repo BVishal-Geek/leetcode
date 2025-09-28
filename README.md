@@ -157,6 +157,7 @@ This repository contains my every day leet code submission.
 | [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/BVishal-Geek/Leetcode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -296,6 +297,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BVishal-Geek/Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -344,6 +346,7 @@ This repository contains my every day leet code submission.
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/BVishal-Geek/Leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
