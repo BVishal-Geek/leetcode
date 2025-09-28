@@ -20,6 +20,7 @@ This repository contains my every day leet code submission.
 | [0334-increasing-triplet-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0506-relative-ranks](https://github.com/BVishal-Geek/Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/BVishal-Geek/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/BVishal-Geek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
@@ -283,6 +284,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0056-merge-intervals](https://github.com/BVishal-Geek/Leetcode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0506-relative-ranks](https://github.com/BVishal-Geek/Leetcode/tree/master/0506-relative-ranks) |
 | [1777-determine-if-two-strings-are-close](https://github.com/BVishal-Geek/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -318,6 +320,7 @@ This repository contains my every day leet code submission.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/BVishal-Geek/Leetcode/tree/master/0506-relative-ranks) |
 | [2681-put-marbles-in-bags](https://github.com/BVishal-Geek/Leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Tree
 |  |
