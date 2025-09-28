@@ -27,7 +27,7 @@ class Solution:
                 if self.peek() < -asteroid: 
                     self.remove()
                     continue
-                elif self.peek() == -asteroid:
+                if self.peek() == -asteroid:
                     self.remove()
                 alive = False
             if alive:
