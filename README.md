@@ -23,6 +23,7 @@ This repository contains my every day leet code submission.
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0506-relative-ranks](https://github.com/BVishal-Geek/Leetcode/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/BVishal-Geek/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/BVishal-Geek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
@@ -195,6 +196,7 @@ This repository contains my every day leet code submission.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/BVishal-Geek/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/BVishal-Geek/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
