@@ -32,6 +32,7 @@ This repository contains my every day leet code submission.
 | [1319-unique-number-of-occurrences](https://github.com/BVishal-Geek/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/BVishal-Geek/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/BVishal-Geek/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/BVishal-Geek/Leetcode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -199,6 +200,7 @@ This repository contains my every day leet code submission.
 | [0540-single-element-in-a-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/BVishal-Geek/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/BVishal-Geek/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2280-count-good-triplets-in-an-array](https://github.com/BVishal-Geek/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/BVishal-Geek/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/BVishal-Geek/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
