@@ -1,15 +1,15 @@
+from collections import Counter
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        # nums1 = set(nums1)
-        # left = 0 
-        # right = len(nums1) - 1 
+        # Decide which one is smaller
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1
 
-        # while left<=right: 
-        #     mid = left + (right - left)//2 
+        count = Counter(nums1)
+        res = []
 
-        #     if 
-        output = []
-        for i in set(nums1):
-            if i in set(nums2): 
-                output.append(i)
-        return output
+        for num in nums2:
+            if count[num] > 0:
+                res.append(num)
+                count[num] = 0
+        return res
