@@ -16,6 +16,7 @@ This repository contains my every day leet code submission.
 | [0056-merge-intervals](https://github.com/BVishal-Geek/Leetcode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/BVishal-Geek/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/BVishal-Geek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BVishal-Geek/Leetcode/tree/master/0283-move-zeroes) |
@@ -285,6 +286,7 @@ This repository contains my every day leet code submission.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0416-partition-equal-subset-sum) |
