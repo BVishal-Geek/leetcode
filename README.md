@@ -284,6 +284,7 @@ This repository contains my every day leet code submission.
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/BVishal-Geek/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/BVishal-Geek/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/BVishal-Geek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/BVishal-Geek/Leetcode/tree/master/1934-confirmation-rate) |
 ## Dynamic Programming
 |  |
 | ------- |
