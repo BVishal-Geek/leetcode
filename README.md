@@ -273,6 +273,7 @@ This repository contains my every day leet code submission.
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/BVishal-Geek/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/BVishal-Geek/Leetcode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/BVishal-Geek/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/BVishal-Geek/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
