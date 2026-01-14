@@ -285,6 +285,7 @@ This repository contains my every day leet code submission.
 | [1045-customers-who-bought-all-products](https://github.com/BVishal-Geek/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/BVishal-Geek/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1153-product-sales-analysis-i](https://github.com/BVishal-Geek/Leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/BVishal-Geek/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/BVishal-Geek/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1258-article-views-i](https://github.com/BVishal-Geek/Leetcode/tree/master/1258-article-views-i) |
