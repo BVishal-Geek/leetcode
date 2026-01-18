@@ -297,6 +297,7 @@ This repository contains my every day leet code submission.
 | [1907-count-salary-categories](https://github.com/BVishal-Geek/Leetcode/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/BVishal-Geek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/BVishal-Geek/Leetcode/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/BVishal-Geek/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Dynamic Programming
 |  |
 | ------- |
