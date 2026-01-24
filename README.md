@@ -298,6 +298,7 @@ This repository contains my every day leet code submission.
 | [1908-recyclable-and-low-fat-products](https://github.com/BVishal-Geek/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/BVishal-Geek/Leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BVishal-Geek/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BVishal-Geek/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Dynamic Programming
 |  |
 | ------- |
