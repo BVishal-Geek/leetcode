@@ -22,6 +22,7 @@ This repository contains my every day leet code submission.
 | [0152-maximum-product-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BVishal-Geek/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/BVishal-Geek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BVishal-Geek/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -196,6 +197,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/BVishal-Geek/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BVishal-Geek/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -215,6 +217,7 @@ This repository contains my every day leet code submission.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BVishal-Geek/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/BVishal-Geek/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BVishal-Geek/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -238,6 +241,7 @@ This repository contains my every day leet code submission.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/BVishal-Geek/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2249-count-the-hidden-sequences](https://github.com/BVishal-Geek/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/BVishal-Geek/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
