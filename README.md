@@ -80,6 +80,7 @@ This repository contains my every day leet code submission.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/BVishal-Geek/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BVishal-Geek/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/BVishal-Geek/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/BVishal-Geek/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repository contains my every day leet code submission.
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/BVishal-Geek/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/BVishal-Geek/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/BVishal-Geek/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -354,6 +356,7 @@ This repository contains my every day leet code submission.
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/BVishal-Geek/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BVishal-Geek/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/BVishal-Geek/Leetcode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
