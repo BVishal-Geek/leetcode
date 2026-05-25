@@ -14,6 +14,7 @@ This repository contains my every day leet code submission.
 | [0035-search-insert-position](https://github.com/BVishal-Geek/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BVishal-Geek/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BVishal-Geek/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -88,6 +89,7 @@ This repository contains my every day leet code submission.
 | [0003-longest-substring-without-repeating-characters](https://github.com/BVishal-Geek/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/BVishal-Geek/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/BVishal-Geek/Leetcode/tree/master/0768-partition-labels) |
@@ -181,6 +183,7 @@ This repository contains my every day leet code submission.
 | [0020-valid-parentheses](https://github.com/BVishal-Geek/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/BVishal-Geek/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/BVishal-Geek/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -341,6 +344,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BVishal-Geek/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BVishal-Geek/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
