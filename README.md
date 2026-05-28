@@ -19,6 +19,7 @@ This repository contains my every day leet code submission.
 | [0075-sort-colors](https://github.com/BVishal-Geek/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/BVishal-Geek/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/BVishal-Geek/Leetcode/tree/master/0162-find-peak-element) |
@@ -91,6 +92,7 @@ This repository contains my every day leet code submission.
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/BVishal-Geek/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/BVishal-Geek/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -463,4 +465,8 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BVishal-Geek/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
