@@ -14,6 +14,7 @@ This repository contains my every day leet code submission.
 | [0035-search-insert-position](https://github.com/BVishal-Geek/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/BVishal-Geek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BVishal-Geek/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BVishal-Geek/Leetcode/tree/master/0075-sort-colors) |
@@ -125,6 +126,7 @@ This repository contains my every day leet code submission.
 | [0011-container-with-most-water](https://github.com/BVishal-Geek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BVishal-Geek/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/BVishal-Geek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BVishal-Geek/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BVishal-Geek/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/BVishal-Geek/Leetcode/tree/master/0125-valid-palindrome) |
@@ -334,6 +336,7 @@ This repository contains my every day leet code submission.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BVishal-Geek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/BVishal-Geek/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0392-is-subsequence) |
@@ -371,6 +374,7 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BVishal-Geek/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BVishal-Geek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -388,6 +392,7 @@ This repository contains my every day leet code submission.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BVishal-Geek/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3001-apply-operations-to-maximize-score](https://github.com/BVishal-Geek/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
