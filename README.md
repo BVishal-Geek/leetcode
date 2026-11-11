@@ -95,6 +95,7 @@ This repository contains my every day leet code submission.
 | [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/BVishal-Geek/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BVishal-Geek/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/BVishal-Geek/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -193,6 +194,7 @@ This repository contains my every day leet code submission.
 | [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/BVishal-Geek/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/BVishal-Geek/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0394-decode-string) |
@@ -357,6 +359,7 @@ This repository contains my every day leet code submission.
 | [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/BVishal-Geek/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BVishal-Geek/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/BVishal-Geek/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BVishal-Geek/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
