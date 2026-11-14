@@ -457,6 +457,7 @@ This repository contains my every day leet code submission.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BVishal-Geek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/BVishal-Geek/Leetcode/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
@@ -509,4 +510,8 @@ This repository contains my every day leet code submission.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/BVishal-Geek/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/BVishal-Geek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
