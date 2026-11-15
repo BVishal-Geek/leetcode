@@ -96,6 +96,7 @@ This repository contains my every day leet code submission.
 | [0041-first-missing-positive](https://github.com/BVishal-Geek/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BVishal-Geek/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/BVishal-Geek/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/BVishal-Geek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/BVishal-Geek/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BVishal-Geek/Leetcode/tree/master/0242-valid-anagram) |
@@ -520,6 +521,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0002-add-two-numbers](https://github.com/BVishal-Geek/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/BVishal-Geek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/BVishal-Geek/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/BVishal-Geek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/BVishal-Geek/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
