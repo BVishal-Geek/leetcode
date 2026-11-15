@@ -160,6 +160,7 @@ This repository contains my every day leet code submission.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BVishal-Geek/Leetcode/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/BVishal-Geek/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/BVishal-Geek/Leetcode/tree/master/1500-count-largest-group) |
@@ -459,6 +460,7 @@ This repository contains my every day leet code submission.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BVishal-Geek/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/BVishal-Geek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/BVishal-Geek/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/BVishal-Geek/Leetcode/tree/master/0394-decode-string) |
@@ -516,6 +518,7 @@ This repository contains my every day leet code submission.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BVishal-Geek/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/BVishal-Geek/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/BVishal-Geek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/BVishal-Geek/Leetcode/tree/master/0206-reverse-linked-list) |
