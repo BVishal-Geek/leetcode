@@ -44,6 +44,7 @@ This repository contains my every day leet code submission.
 | [0735-asteroid-collision](https://github.com/BVishal-Geek/Leetcode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/BVishal-Geek/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/BVishal-Geek/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1254-number-of-closed-islands](https://github.com/BVishal-Geek/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1319-unique-number-of-occurrences](https://github.com/BVishal-Geek/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/BVishal-Geek/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/BVishal-Geek/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -186,6 +187,7 @@ This repository contains my every day leet code submission.
 | [0036-valid-sudoku](https://github.com/BVishal-Geek/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/BVishal-Geek/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/BVishal-Geek/Leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/BVishal-Geek/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/BVishal-Geek/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/BVishal-Geek/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/BVishal-Geek/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -318,6 +320,7 @@ This repository contains my every day leet code submission.
 | [0572-subtree-of-another-tree](https://github.com/BVishal-Geek/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/BVishal-Geek/Leetcode/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BVishal-Geek/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/BVishal-Geek/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/BVishal-Geek/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -330,6 +333,7 @@ This repository contains my every day leet code submission.
 | [0226-invert-binary-tree](https://github.com/BVishal-Geek/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/BVishal-Geek/Leetcode/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/BVishal-Geek/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/BVishal-Geek/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/BVishal-Geek/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Database
 |  |
@@ -522,6 +526,7 @@ This repository contains my every day leet code submission.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BVishal-Geek/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/BVishal-Geek/Leetcode/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/BVishal-Geek/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Hash Function
 |  |
 | ------- |
